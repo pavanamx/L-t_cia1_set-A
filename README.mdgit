@@ -1,0 +1,1 @@
+"# L-t_cia1_set-A"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/pavanamx/L-t_cia1_set-A.gitgit push -u origin main
