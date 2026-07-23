@@ -1,14 +1,13 @@
-// Declare variables
-let studentAge = 20;          // Number
-let studentName = "Pavana";   // String
-let isPresent = true;         // Boolean
 
-// Print values
+let studentAge = 19;          
+let studentName = "Pavana";   
+let isPresent = true;         
+
 console.log("Student Age:", studentAge);
 console.log("Student Name:", studentName);
 console.log("Is Present:", isPresent);
 
-// Print datatypes
-console.log(typeof studentAge);
-console.log(typeof studentName);
-console.log(typeof isPresent);
+
+console.log("age",typeof studentAge);
+console.log("name",typeof studentName);
+console.log("ispresent",typeof isPresent);

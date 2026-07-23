@@ -1,4 +1,4 @@
-// Function to check pass/fail
+
 function checkResult(id, name, marks) {
     if (marks >= 35) {
         return name + " (ID: " + id + ") - Pass";
@@ -6,7 +6,5 @@ function checkResult(id, name, marks) {
         return name + " (ID: " + id + ") - Fail";
     }
 }
-
-// Function call
-console.log(checkResult(101, "Pavana", 90));
-console.log(checkResult(102, "Rahul", 28));
+console.log(checkResult(178, "Pavana", 90));
+console.log(checkResult(182, "Ravi", 28));

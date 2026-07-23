@@ -1,13 +1,12 @@
-// Create a student object
+
 let student = {
-    id: 101,
+    id: 178,
     name: "Pavana",
-    age: 20,
-    department: "AIML",
-    marks: 90
+    age: 19,
+    department: "CS_AIML",
+    marks: 80
 };
 
-// Print each property individually
 console.log("ID:", student.id);
 console.log("Name:", student.name);
 console.log("Age:", student.age);
